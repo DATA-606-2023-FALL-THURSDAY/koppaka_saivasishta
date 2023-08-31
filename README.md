@@ -1,1 +1,1 @@
-# saivasishta_koppaka
+# saivasishta capstone project
