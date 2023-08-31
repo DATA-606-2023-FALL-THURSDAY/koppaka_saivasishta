@@ -1,1 +1,0 @@
-# saivasishta capstone project
