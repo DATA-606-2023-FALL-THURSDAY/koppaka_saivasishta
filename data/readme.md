@@ -1,3 +1,4 @@
-#Data folder
+# Dataset Directory
 
-This folder contains datasets for this project.
+Within this directory, you'll find the datasets used in this project.
+
