@@ -37,11 +37,11 @@ The dataset used for training and testing the model can be found at [this Kaggle
 ### Data Size
 
 - Test Subset Size:
-  - Number of images: 46.00 MB
+  - Number of images: 46
   - Total Size: 12.80 MB
 
 - Train Subset Size:
-  - Number of images: 181.00 MB
+  - Number of images: 181
   - Total Size: 126.18 MB
 
 ### Data Shape
