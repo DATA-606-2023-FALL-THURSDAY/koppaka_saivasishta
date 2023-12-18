@@ -9,7 +9,7 @@
 - Link to the author's GitHub profile : https://github.com/DATA-606-2023-FALL-THURSDAY/koppaka_saivasishta
 - Link to the author's LinkedIn profile : https://www.linkedin.com/in/sai-vasishta/
 - Link to PowerPoint presentation file : https://docs.google.com/presentation/d/1E1d-Bb7VvuaRbrW_cmX7pzkKKYsM30Agt9P3rLljuEg/edit#slide=id.p
-- Link to YouTube video :
+- Link to YouTube video : https://www.youtube.com/watch?v=orNdaCDOzK8
   
 ## Objective 
 In the wake of the Covid-19 pandemic, swift and accurate diagnosis has been paramount in combating the virus's spread and providing timely treatment. This research introduces a cutting-edge diagnostic platform employing a deep convolutional neural network (DCNN) to differentiate between Covid-19 and non-Covid-19 pneumonia from chest X-rays. The platform augments radiologists' capabilities, increasing diagnostic speed and accuracy, thus bolstering medical response to Covid-19. The DCNN integrates an explainable AI approach, enhancing model transparency by illustrating the decision-making process and improving prediction precision, with a demonstrated average accuracy above 94%, showcasing potential for widespread application in rapid screening and diagnosis of Covid-19. Inspired by Stanford University's CheXNet algorithm, which detects pneumonia and other pathological conditions from X-ray images, this study adapts a similar CNN algorithm. Utilizing a dataset of 227 chest X-ray images from Kaggle.
